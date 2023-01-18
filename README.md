@@ -3,4 +3,4 @@ I created CETİN TOKEN(CET) according to BEP20 standards on BSC network. I teste
 
 <img src="a.png" width ="500">
 
-<img src="b.png" width ="800">
+<img src="b.png" width ="500">
